@@ -1,0 +1,12 @@
+﻿  CMy2DPoint.cpp
+  int main().cpp
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\int main().cpp(31): error C3867: "CMy2DPoint::get_y": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\int main().cpp(31): error C2297: +: недопустимо, правый оператор имеет тип "double (__thiscall CMy2DPoint::* )(void)"
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\int main().cpp(60): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(128): error C4716: operator==: должна возвращать значение
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(167): error C4716: operator!=: должна возвращать значение
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(180): error C4716: operator!=: должна возвращать значение
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(194): error C4716: operator!=: должна возвращать значение
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(154): error C4716: operator==: должна возвращать значение
+c:\users\newlu\onedrive\workless stol\projects\kursach headers v1\kursach headers v1\cmy2dpoint.cpp(141): error C4716: operator==: должна возвращать значение
